@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.78](https://github.com/liandu2024/AnGe-ClashBoard/compare/v1.77...v1.78) (2026-03-30)
+
+### Bug Fixes
+
+* align the proxy domain-group panel radius with the shared app panel radius so the domain view no longer uses a separate rounded-box treatment
 ## [1.77](https://github.com/liandu2024/AnGe-ClashBoard/compare/v1.76...v1.77) (2026-03-30)
 
 ### Bug Fixes
